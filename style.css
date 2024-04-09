@@ -32,7 +32,11 @@ body {
 .ben10-imagem{
     width: 100%;
 }
+}
 
+.kevin11-imagem{
+    width: 100%;
+}
 #ben10{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
