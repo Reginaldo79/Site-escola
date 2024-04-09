@@ -20,12 +20,12 @@ body {
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 24px;
-    font-size: 24px;
+    margin: 0 30px;
+    font-size: 30px;
 }
 
 .cabecalho-lista-item a{
-    text-decoration: none; 
+    text-decoration: white; 
     color: white;
 }
 
