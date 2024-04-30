@@ -31,10 +31,7 @@ body {
 
 .ben10-imagem{
     width: 100%;
-}
 
-.ben10supremo-imagem{
-    width: 50%;
 }
 #ben10{
     background-image: linear-gradient(#32CD32,#16CFF8);
@@ -79,7 +76,7 @@ body {
 
 .alien-todos{
     display: grid;
-    grid-template-columns:20% 20% 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
 }
 
 .rodape{
